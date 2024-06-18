@@ -17,7 +17,7 @@ Antes de começar, vamos organizar nosso setup.
 ***
 ### Exercícios 
 
-* [Notebook com Exercicio](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa/notebook.ipynb)
+* [Notebook com Exercicio](./exercicios/notebook.ipynb)
 
 ### Material da aula 
 
