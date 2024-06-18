@@ -22,10 +22,10 @@ Antes de começar, vamos organizar nosso setup.
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [motivação](./material/motivacao.md)
+- [df.to_sql()](./material/df-to_sql.md)
+- [dropna()](./material/dropna().md)
+
 
 
 <p align="center">
